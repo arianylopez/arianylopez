@@ -55,8 +55,8 @@ My main motivation is to provide innovative solutions and generate a positive im
 
 <div align="center">
 
-[![Ariany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arianylopez&show_icons=true&theme=transparent&hide_border=true&title_color=D81B60&icon_color=F06292&text_color=777777)](https://github.com/arianylopez)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arianylopez&layout=compact&theme=transparent&hide_border=true&title_color=D81B60&icon_color=F06292&text_color=777777)](https://github.com/arianylopez)
+[![Ariany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arianylopez&show_icons=true&theme=transparent&hide_border=true&title_color=D81B60&icon_color=F06292&text_color=777777&v=1)](https://github.com/arianylopez)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arianylopez&layout=compact&theme=transparent&hide_border=true&title_color=D81B60&icon_color=F06292&text_color=777777&v=1)](https://github.com/arianylopez)
 
 <br>
 
@@ -70,12 +70,14 @@ My main motivation is to provide innovative solutions and generate a positive im
 
 <div align="center">
   <p><strong>I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.</strong></p>
+  
   <br>
 
   <a href="mailto:arianylopez341@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D81B60?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: arianylopez341@gmail.com" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Email" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ariany-lopez">
-    <img src="https://img.shields.io/badge/LinkedIn-D81B60?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: in/ariany-lopez" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" />
   </a>
 </div>
