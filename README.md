@@ -1,25 +1,27 @@
 <div align="center">
-
-# Hi there, I'm Ariany Lopez 👋🌸
-
-**Software Engineering Student | Tech Enthusiast | Proactive Developer**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=arianylopez&color=D81B60&style=flat-square&label=PROFILE+VIEWS)](https://github.com/arianylopez)
-
+  <h1>Hi there, I'm Ariany Lopez 👋🌸</h1>
+  <h3>Software Engineering Student | Tech Enthusiast | Proactive Develope</h3>
+  <img src="https://komarev.com/ghpvc/?username=arianylopez&color=D81B60" alt="Profile Views" />
+</div>
 I am a Software Engineering student at Universidad Católica Boliviana (UCB) based in Santa Cruz de la Sierra, Bolivia. I am highly passionate about technology and its transformative potential. I consider myself an enthusiastic, proactive person with a strong desire for continuous learning and an ability to adapt quickly to new environments and challenges. 
 
 My main motivation is to provide innovative solutions and generate a positive impact through teamwork and solid technical communication.
-
-</div>
-
----
-
-## 👩‍💻 About Me
-
-* 🎓 **Education:** Currently studying Software Engineering at Universidad Católica Boliviana San Pablo.
-* 💡 **Focus:** Collaborative work, problem-solving, and self-directed learning.
-* 🗣️ **Languages:** Spanish (Native), English (B2 - Professional Working).
-* 🏆 **GitHub Achievements:** Pull Shark x2.
+<br/>
+## 🌟 About Me
+<table border="0">
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🎓 <b>Education</b>—Currently studying Software Engineering at Universidad Católica Boliviana San Pablo.</li>
+        <li>💡 <b>Focus</b>—Collaborative work, problem-solving, and self-directed learning.</li>
+        <li>🗣️ <b>Languages</b>—Spanish (Native), English (B2 - Professional Working).</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media1.tenor.com/m/PZt7h3_1n3sAAAAd/sseeyall-bubu-dudu.gif" alt="Bubu Dudu Laptop GIF" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
