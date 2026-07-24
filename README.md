@@ -18,7 +18,7 @@ My main motivation is to provide innovative solutions and generate a positive im
       </ul>
     </td>
     <td width="40%" align="center">
-      <img src="https://media1.tenor.com/m/PZt7h3_1n3sAAAAd/sseeyall-bubu-dudu.gif" alt="Bubu Dudu Laptop GIF" width="100%"/>
+      <img src="https://media.tenor.com/PZt7h3_1n3sAAAA/sseeyall-bubu-dudu.gif" alt="Bubu Dudu Laptop GIF" width="100%"/>
     </td>
   </tr>
 </table>
