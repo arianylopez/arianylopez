@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Ariany Lopez 👋🌸</h1>
-  <h3>Software Engineering Student | Tech Enthusiast | Proactive Develope</h3>
+  <h3>Software Engineering Student | Tech Enthusiast | Proactive Developer</h3>
   <img src="https://komarev.com/ghpvc/?username=arianylopez&color=D81B60" alt="Profile Views" />
 </div>
 I am a Software Engineering student at Universidad Católica Boliviana (UCB) based in Santa Cruz de la Sierra, Bolivia. I am highly passionate about technology and its transformative potential. I consider myself an enthusiastic, proactive person with a strong desire for continuous learning and an ability to adapt quickly to new environments and challenges. 
