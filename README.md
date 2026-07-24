@@ -10,14 +10,14 @@ My main motivation is to provide innovative solutions and generate a positive im
 ## 🌟 About Me
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="75%">
       <ul>
         <li>🎓 <b>Education</b>—Currently studying Software Engineering at Universidad Católica Boliviana San Pablo.</li>
         <li>💡 <b>Focus</b>—Collaborative work, problem-solving, and self-directed learning.</li>
         <li>🗣️ <b>Languages</b>—Spanish (Native), English (B2 - Professional Working).</li>
       </ul>
     </td>
-    <td width="40%" align="center">
+    <td width="25%" align="center">
       <img src="./bubu.gif" alt="Bubu Dudu Laptop GIF" width="100%"/>
     </td>
   </tr>
